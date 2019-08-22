@@ -1,0 +1,25 @@
+{
+  "token": "token",
+  "bot": {
+    "plugins": [
+      "plugins.amiami",
+      "plugins.choose",
+      "plugins.danbooru",
+      "plugins.eh",
+      "plugins.extra",
+      "plugins.google",
+      "plugins.pad",
+      "plugins.paginator",
+      "plugins.pdf2img",
+      "plugins.reactions",
+      "plugins.roulette",
+      "plugins.stugbucks",
+      "plugins.weather",
+      "plugins.wolframalpha",
+      "plugins.help"
+    ],
+    "commands_require_mention": false,
+    "commands_prefix": "!",
+    "http_enabled": true
+  }
+}
